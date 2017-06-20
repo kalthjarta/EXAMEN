@@ -1,0 +1,3 @@
+Nodes: 987
+Edges: 1166
+Density: 0.002396
